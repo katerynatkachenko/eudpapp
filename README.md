@@ -26,6 +26,6 @@ To install the EU Data Protection App on your Android device, please follow thes
 * Version: 1.0.1
 * Developed By: Kozlenkov-Tkachenko Development
 * Application support: 
- 	* <artem.kozlenkov@gmail.com>
- 	* <katryna.tkachenko@gmail.com>
+	 * <artem.kozlenkov@gmail.com>
+	 * <katryna.tkachenko@gmail.com>
 
