@@ -21,11 +21,11 @@ To install the EU Data Protection App on your Android device, please follow thes
  The only official release of the application is located at the Amazon Appstore. 
  Please refer to the application following this link [EU Data Protection App](https://www.amazon.com/dp/B082ZQQT6F/ref=cm_sw_em_r_mt_dp_U_ZkgeEbRXADGDE)
  
- ### Technical details
+### Technical details
 * Size: 2.0MB
 * Version: 1.0.1
 * Developed By: Kozlenkov-Tkachenko Development
 * Application support: 
- - <artem.kozlenkov@gmail.com>
- - <katryna.tkachenko@gmail.com>
+ 	* <artem.kozlenkov@gmail.com>
+ 	* <katryna.tkachenko@gmail.com>
 
