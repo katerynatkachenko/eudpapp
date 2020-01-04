@@ -4,7 +4,7 @@
 ### Installation
 In order to install the EU Data Protection App on your Android device, please follow this steps: 
 
- 1. Download the [eudpapp.apk](https://github.com/artemkoslenkov/eu-data-protection-app/blob/master/eudpapp_1.0.1.apk) file first 
+ 1. Download the [eudpapp.apk](https://github.com/artemkoslenkov/eudpapp/releases/download/1.0.1/eudpapp_v1.0.1.apk) file first 
  2.  Open the **Apk** file on your **device** and follow the installation procedure
  3.  Allow installation from **unknown sources** or **installation of uknown apps** on your device if neccessary.(The semantics may vary on each device.)
  4.  **Alternatively you may install the application with Amazon App Store:**
